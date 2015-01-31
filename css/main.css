@@ -1,0 +1,118 @@
+html{
+  background-color: #dbd6cf;
+  color: black;
+  font-family: Arial, sans-serif;
+  width: 600px;
+  line-height: 20px}
+
+  nav li {display: inline;}
+
+  nav a {display: inline-block;
+    padding: 0.5em 0.75em;}
+
+  nav ul {text-align: center;}
+
+  div {margin: 5px 8px 5x 8x;
+    padding: 12px;
+    background color: #79756f;}
+
+    p {min-height: 10em;
+      max-width: 35em;}
+
+
+  h1{
+    font-family: 'Chewy', cursive;
+    font-style: bold;
+    color: #79756f;
+    font-size: 3rem;}
+
+    h2{font-family: 'Chewy', cursive;
+    font-style: bold;
+    color: #79756f;
+    font-size: 2rem;}
+
+    h3 {font-family: 'Chewy', cursive;
+    font-style: bold;
+    color: #79756f;
+    font-size: 1.5rem;}
+
+    ol {
+      list-style: none;
+      text-decoration: underline;
+      padding: 0;
+      color: maroon;}
+
+      ul {list-style-type: lower-roman;}
+
+      ol2 {list-style-type: circle;}
+
+      a {color:maroon;}
+
+      a:hover {color:blue;}
+
+      .gray {color: #79756f;}
+
+      .quote {color: #79756f;
+        font-style:bold;
+        font-size: 2rem;}
+
+        .italics {font-style: italic;}
+
+        .space {font-family: Times;
+          font-size: 1.5rem;
+          font-style: italic;}
+
+          .caption {font-size: 0.7rem;
+            font-style:italic;}
+            html{
+              background-color: #dbd6cf;
+              color: black;
+              font-family: Arial, sans-serif;
+              width:584px;
+              line-height: 20px}
+
+
+              h1{
+                font-family: 'Chewy', cursive;
+                font-style: bold;
+                color: #79756f;
+                font-size: 3rem;}
+
+                h2{font-family: 'Chewy', cursive;
+                font-style: bold;
+                color: #79756f;
+                font-size: 2rem;}
+
+                h3 {font-family: 'Chewy', cursive;
+                font-style: bold;
+                color: #79756f;
+                font-size: 1.5rem;}
+
+                ol {
+                  list-style: none;
+                  text-decoration: underline;
+                  padding: 0;
+                  color: maroon;}
+
+                  ul {list-style-type: lower-roman;}
+
+                  ol2 {list-style-type: circle;}
+
+                  a {color:maroon;}
+
+                  a:hover {color:blue;}
+
+                  .gray {color: #79756f;}
+
+                  .quote {color: #79756f;
+                    font-style:bold;
+                    font-size: 2rem;}
+
+                    .italics {font-style: italic;}
+
+                    .space {font-family: Times;
+                      font-size: 1.5rem;
+                      font-style: italic;}
+
+                      .caption {font-size: 0.7rem;
+                        font-style:italic;}
